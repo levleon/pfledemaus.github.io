@@ -8,3 +8,13 @@ body{
     height: 100%;
     padding: 10px;
 }
+.lb{
+    left: 109px;
+}
+.key_input{
+    width: 42%;
+}
+.key_block{
+    display: flex;
+    justify-content: center;
+}
