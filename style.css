@@ -9,10 +9,10 @@ body{
     padding: 10px;
 }
 .lb{
-    left: 109px;
+    left: 109px !important;
 }
 .key_input{
-    width: 42%;
+    width: 42% !important;
 }
 .key_block{
     display: flex;
