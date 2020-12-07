@@ -17,6 +17,8 @@ body{
 .key_block{
     display: flex;
     justify-content: center;
+}
+.mt{
     margin-top: 30px;
 }
 .btn_custom{
