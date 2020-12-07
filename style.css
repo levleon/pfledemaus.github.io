@@ -17,6 +17,7 @@ body{
 .key_block{
     display: flex;
     justify-content: center;
+    margin-top: 30px;
 }
 .btn_custom{
     width: 51% !important;
